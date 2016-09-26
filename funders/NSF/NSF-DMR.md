@@ -1,5 +1,5 @@
-NSF-GEN: Generic
-================
+NSF-DMR: Materials Research
+===========================
 
 National Science Foundation
 ===========================
@@ -30,32 +30,32 @@ Data and metadata standards
 
 ### Standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
-Describe the format of your data and how it will be documented. Think about what details (metadata) someone else would need to be able to use these files. For example, you may need a "readme file" to explain variables, structure of the files, etc. **Metadata associated with the data should conform to community standards and the requirements of the host repository. NSF does not currently specify a single metadata standard. However, any acceptable minimum set of data elements would include the names of all authors, date of publication or release, and Universal Resource Locator (URL) or other persistent identifier, as required by Biographical Sketches in proposals (Section 3.2.3 and** [**Grant Proposal Guide, Chapter II C.2.f.i (c)**]**).***Consider these questions*:
+Datasets need metadata to be usable. Think about what details (metadata) someone else would need to be able to use these files. For example, you may need a readme.txt file to explain variables, structure of the files, etc.
 
--   Which file formats will you use for your data, and why?
+Consider the following:
+
+-   What contextual details (metadata) are needed to make the data you capture or collect meaningful?
 
 -   What form will the metadata describing/documenting your data take?
 
 -   How will you create or capture these details?
 
--   Which metadata standards will you use and why have you chosen them? (e.g. accepted domain-local standards, widespread usage)
+-   Which metadata standards will you use and why have you chosen them?
 
--   What contextual details (metadata) are needed to make the data you capture or collect meaningful?
-
-Policies for access and sharing
--------------------------------
+Policies for access and sharing, and provisions for appropriate protection/privacy
+----------------------------------------------------------------------------------
 
 ### Policies for access and sharing; Provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements.
 
-Explain how and when the data will become available. Will data be accessible on a web page, by email request, via open-access repository etc.? If there is an embargo period for sharing the data, make sure you provide details explaining this delay (e.g. publisher, political, commercial, patent reasons). And if the data is of a sensitive nature - human subject concerns, potential patentability, species/ecological endangerment concerns - that public access is inappropriate, address here the means by which granular control and access will be achieved (e.g. formal consent agreements; anonymizing data; restricted access, only available within a secure network). **Practices governing use of embargos and delayed data release vary widely across the research communities supported by NSF and should be discussed as part of the DMP. For large-scale projects that are supported primarily to generate data for community use, the timing of release will be part of the award terms and conditions and clearly stated in the public award abstracts. NSF recognizes that some classes of data, particularly those that relate to human subjects, education, personally identifiable information, national security, or proprietary interests, may be subject to restrictions. Such restrictions must be described in the DMP and changes addressed in annual and final reports. Small Business Innovation Research (SBIR)/Small Business Technology Transfer (STTR) proposals and any other proposal may allow for exceptions for proprietary or otherwise restricted data, including but not limited to personally identifiable information, business confidential information, security, among other concerns outlined in section 4.a. of the OSTP memo. Any such data management issues as well as conditions that might affect, delay, or limit data sharing should be discussed in the DMP. Coordination with the Cognizant Program Officer prior to submitting the proposal is also advised.***Consider these questions*:
+Explain how and when the data will become available. If there is an embargo period for sharing the data, make sure you provide details explaining this delay (e.g. publisher, political, commercial, patent reasons). And if the data is of a sensitive nature, address the means by which access will be restricted. Consider these questions:
 
--   How will you make the data available? (Include resources needed to make the data available: equipment, systems, expertise, etc.)
+-   How will you make the data available?
+
+-   What resources are needed to access or use the data? Examples are software or equipment
 
 -   When will you make the data available?
 
 -   What is the process for gaining access to the data?
-
--   Will access be chargeable?
 
 -   How long will the original data collector/creator/principal investigator retain the right to use the data before making them available for wider distribution?
 
@@ -63,12 +63,10 @@ Explain how and when the data will become available. Will data be accessible on 
 
 -   Are there ethical and privacy issues? If so, how will these be resolved?
 
--   What have you done to comply with your obligations in your IRB Protocol?
-
 -   Who will hold the intellectual property rights to the data and how might this affect data access?
 
-Policies for re-use, redistribution
------------------------------------
+Policies and provisions for re-use, re-distribution
+---------------------------------------------------
 
 ### Policies and provisions for re-use, re-distribution, and the production of derivatives.
 
@@ -102,5 +100,3 @@ Provide a description of your long-term strategy for archiving and preserving th
 -   What metadata/ documentation will be submitted alongside the data or created on deposit/ transformation in order to make the data reusable?
 
 -   What related information will be deposited?
-
-  [**Grant Proposal Guide, Chapter II C.2.f.i (c)**]: http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_2.jsp#IIC2f
