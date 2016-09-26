@@ -21,7 +21,7 @@ Here are some links to some of our resources.
 | DOJ | [National Institute of Justice](https://github.com/bulib/dmp/tree/master/funders/DOJ) |
 | DOT | [Department of Transportation](https://github.com/bulib/dmp/tree/master/funders/DOT) |
 | ED | [Institute of Education Science](https://github.com/bulib/dmp/tree/master/funders/DCC)  |
-| GoMRI | [Gulf of Mexico Research Imitative](https://github.com/bulib/dmp/blob/master/funders/GoMRI/GoMRI.md) |
+| GoMRI | [Gulf of Mexico Research Initative](https://github.com/bulib/dmp/blob/master/funders/GoMRI/GoMRI.md) |
 | IMLS | [Institute of Museum and Library Services](https://github.com/bulib/dmp/tree/master/funders/IMLS) |
 | JFSP | [Joint Fire Science Program](https://github.com/bulib/dmp/blob/master/funders/JFSP/JFSP.md) |
 | MOORE | [Gordon and Betty More Foundation](https://github.com/bulib/dmp/blob/master/funders/MOORE/MOORE.md) |
