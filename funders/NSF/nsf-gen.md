@@ -4,6 +4,9 @@ NSF-GEN: Generic
 National Science Foundation
 ===========================
 
+Harvested from the [DMPTool's](https://dmptool.org/guidance?method=get&scope1=all) [DMP Requirements](https://dmptool.org/requirements_templates/2/basic.docx)
+
+
 Types of data produced
 ----------------------
 
