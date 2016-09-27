@@ -23,7 +23,7 @@ The [NSF is a large organization](https://nsf.gov/staff/orglist.jsp) attempting 
 | CHE | [Chemistry Division](NSF-CHE.md)| |
 | CISE | [Directorate for Computer and Information Science and Engineering](NSF-CISE.md)|  |
 | DMR | [Divison of Materials Research](NSF-DMR.md) | |
-| EAR | [Earth Sciences Division (GEO](NSF-EAR.md)| |
+| EAR | [Earth Sciences Division (GEO)](NSF-EAR.md)| |
 | EHR | [Directorate for Education and Human Resources](NSF-EHR.md) | |
 | ENG | [Engineering](NSF-ENG.md) | |
 | GEO | Directorate for Geosciences | | 
