@@ -6,14 +6,14 @@ Division of Earth Sciences
 
 ## Quick Links 
 
-***Earth Sciences Division*** 
+**Earth Sciences Division** 
 + [Earth Sciences Data Sharing Policy](https://www.nsf.gov/geo/ear/2010EAR_data_policy_9_28_10.pdf)
 + [EarthScope Data and Sample Policies](http://www.nsf.gov/geo/geo-data-policies/ear/es-data-policy.pdf)
 
-***Directorate for Geosiences***
+**Directorate for Geosiences**
 + [Directorate for Geosciences - Data Policies](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
 
-***NSF***
+**NSF**
 + [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
 + [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
 + [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
