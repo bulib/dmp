@@ -1,11 +1,21 @@
-NSF-PHY: Physics
-================
+# NSF-PHY: Physics
 
 National Science Foundation
-===========================
+Mathematical and Physical Sciences Directorate 
+Division of Physics
 
-Types of data produced
-----------------------
+## Quick Links 
+
+**Division of Physics**
++ [Division of Physics - Advice to PIs on Data Management Plans](https://www.nsf.gov/bfa/dias/policy/dmpdocs/phy.pdf)
+
+**NSF**
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+## Types of data produced
 
 ### Types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.
 
@@ -25,8 +35,7 @@ Provide a description of the data you will collect or re-use, including the file
 
 -   What quality assurance & quality control measures will you employ?
 
-Data and metadata standards
----------------------------
+## Data and metadata standards
 
 ### Standards to be used for data and metadata format and content (where existing standards are absent or deemed inadequate, this should be documented along with any proposed solutions or remedies).
 
@@ -42,8 +51,7 @@ Consider the following:
 
 -   Which metadata standards will you use and why have you chosen them?
 
-Policies for access and sharing, and provisions for appropriate protection/privacy
-----------------------------------------------------------------------------------
+## Policies for access and sharing, and provisions for appropriate protection/privacy
 
 ### Policies for access and sharing; Provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements.
 
@@ -65,8 +73,7 @@ Explain how and when the data will become available. If there is an embargo peri
 
 -   Who will hold the intellectual property rights to the data and how might this affect data access?
 
-Policies and provisions for re-use, re-distribution
----------------------------------------------------
+## Policies and provisions for re-use, re-distribution
 
 ### Policies and provisions for re-use, re-distribution, and the production of derivatives.
 
@@ -78,8 +85,7 @@ Explain how the policies outlined in the previous question can be applied to the
 
 -   What and who are the intended or foreseeable uses the data?
 
-Plans for archiving and preservation
-------------------------------------
+## Plans for archiving and preservation
 
 ### Plans for archiving data, samples, and other research products, and for preservation of access to them.
 

@@ -1,11 +1,21 @@
-NSF-CHE: Chemistry Division
-===========================
+# NSF-CHE: Chemistry Division
 
 National Science Foundation
-===========================
+Mathematical and Physical Sciences Directorate 
+Division of Chemistry
 
-Products of research
---------------------
+## Quick Links 
+
+**Division of Chemistry**
++ [Division of Chemistry - Advice to PIs on Data Management Plans](https://www.nsf.gov/bfa/dias/policy/dmpdocs/che.pdf)
+
+**NSF**
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+## Products of research
 
 ### Describe the types of data and products that will be generated in the research, for example numerical data on chemical systems such as spectra, diffraction patterns, physical properties, time-dependent information on chemical and physical processes, theoretical formalisms, computational strategies, final or intermediate numerical results from theoretical calculations, software, and curriculum materials.
 
@@ -23,8 +33,7 @@ Describe what data or other research products you will generate in the course of
 
 -   How much data will be produced?
 
-Data format
------------
+## Data format
 
 ### Describe the format in which the data or products are stored (e.g., hardcopy notebook and/or instrument outputs, ASCII, html, jpeg or other formats). Where data are stored in unusual or not generally accessible formats, explain how the data may be converted to a more accessible format or otherwise made available to interested parties. You may also comment on the current or anticipated need for interested parties outside of your laboratory to access your primary data.
 
@@ -40,8 +49,7 @@ Describe the format of your data, and think about what details (metadata) someon
 
 -   What contextual details (metadata) are needed to make the data you capture or collect meaningful?
 
-Access to data and data sharing practices and policies
-------------------------------------------------------
+## Access to data and data sharing practices and policies
 
 ### "Access to data" refers to data made accessible without explicit request from the interested party, for example those posted on a website or made available to a public database. Describe your plans, if any, for providing such general access to data, including websites maintained by your research group, and direct contributions to public databases (e.g., the Protein Data Bank, Cambridge Crystallographic Data Centre, Inorganic Crystal Structure Database in Karlsruhe, Zeolite Structure Database). Also note if you submit your data in the form of tables, graphs, computer code or other format to the supplementary materials sections of peer-reviewed journals. Describe your practice or policies regarding the release of data for access, for example whether data are posted before or after formal publication. Finally, note as well any anticipated inclusion of your data into databases that mine the published literature (e.g., PubChem, NIST Chemistry WebBook). "Data sharing" refers to the release of data in response to a specific request from an interested party. Describe your policies for data sharing, including where applicable provisions for protection of privacy, confidentiality, intellectual property, national security, or other rights or requirements.
 
@@ -65,8 +73,7 @@ Describe how you will make the data available to other researchers, as well as t
 
 -   How long will/should data be kept beyond the life of the project?
 
-Policies and provision for re-use, re-distribution and products of derivatives
-------------------------------------------------------------------------------
+## Policies and provision for re-use, re-distribution and products of derivatives
 
 ### Describe your policies regarding the use of data provided via general access or sharing. For example, if you plan to provide data and images on your website, will the website contain disclaimers, or conditions regarding the use of the data in other publications or products? Describe these disclaimers and/or terms of use.
 
@@ -78,8 +85,7 @@ Explain how the policies outlined in the previous question can be applied to the
 
 -   What and who are the intended or foreseeable uses the data?
 
-Archiving of data
------------------
+## Archiving of data
 
 ### Describe how data will be archived and how preservation of access will be handled. For example, will hardcopy notebooks, instrument outputs, and physical samples be stored in a location where there are safeguards against fire or water damage? Is there a plan to transfer digitized information to new storage media or devices as technological standards or practices change? Will there be an easily accessible index that documents where all archived data are stored and how they can be accessed?
 

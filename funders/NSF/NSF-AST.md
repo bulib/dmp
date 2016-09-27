@@ -1,11 +1,21 @@
-NSF-AST: Astronomical Sciences
-==============================
+# NSF-AST: Astronomical Sciences
 
 National Science Foundation
-===========================
+Mathematical and Physical Sciences Directorate 
+Division of Astronomical Sciences
 
-Products of research
---------------------
+## Quick Links 
+
+**Division of Astronomical Sciences**
++ [Division of Astronomical Sciences - Advice to PIs on Data Management Plans](https://www.nsf.gov/bfa/dias/policy/dmpdocs/ast.pdf)
+
+**NSF**
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+## Products of research
 
 ### Describe the types of data and products that will be generated in the research, such as images of astronomical objects, spectra, data tables, time series, theoretical formalisms, computational strategies, software, and curriculum materials.
 
@@ -23,8 +33,7 @@ Describe what data or other research products you will generate in the course of
 
 -   How much data will be produced?
 
-Data format
------------
+## Data format
 
 ### Describe the format in which the data or products are stored (e.g., ASCII, HTML, FITS, VO compliant tables, XML files, etc.). Include a description of the metadata that will make the actual data products useful to the general researcher. Where data are stored in unusual or not generally accessible formats, explain how the data may be converted to a more accessible format or otherwise made available to interested parties. In general, solutions and remedies should be provided.
 
@@ -40,8 +49,7 @@ Describe the format of your data, and think about what details (metadata) someon
 
 -   What contextual details (metadata) are needed to make the data you capture or collect meaningful?
 
-Access to data and data sharing practices and policies
-------------------------------------------------------
+## Access to data and data sharing practices and policies
 
 ### "Access to data" refers to data made accessible without explicit request from the interested party, for example those posted on a website or made available to a public database. Describe your plans, if any, for providing such general access to data, including websites maintained by your research group, and direct contributions to public databases. If maintenance of a web site or database is the direct responsibility of your group, provide information about the period of time the web site or data base is expected to be maintained. Note that data taken at national or private observatories may be accessible through public archives (perhaps after a standard proprietary period). Various forms of data (e.g., FITS images and tables, other data tables) also may be deposited with published articles in the AAS journals and other journals. Particular attention should be paid to data sets that are products of well-defined surveys. Also describe your practice or policies regarding the release of data for access, for example whether data are posted before or after formal publication. "Data sharing" refers to the release of data in response to a specific request from an interested party. Describe your policies for data sharing, including where applicable provisions for protection of privacy, confidentiality, intellectual property, national security, or other rights or requirements.
 
@@ -65,8 +73,7 @@ Describe how you will make the data available to other researchers, as well as t
 
 -   How long will/should data be kept beyond the life of the project?
 
-Policies and provision for re-use, re-distribution and products of derivatives
-------------------------------------------------------------------------------
+## Policies and provision for re-use, re-distribution and products of derivatives
 
 ### Describe your policies regarding the use of data provided via general access or sharing. For example, if you plan to provide data and images on your website, will the website contain disclaimers, or conditions regarding the use of the data in other publications or products? If the data or products (e.g., images) are copyrighted (by a journal, for example), how will this be noted on the website?
 
@@ -78,8 +85,7 @@ Explain how the policies you outlined in the section above can be applied to the
 
 -   How will the dataset be licensed if rights exist? (e.g. any restrictions or delays on data sharing needed to protect intellectual property, copyright or patentable data.)
 
-Archiving of data
------------------
+## Archiving of data
 
 ### Describe whether and how data will be archived and how preservation of access will be handled. If the data will be archived by a third party (e.g., national observatory or journal), please refer to their preservation plans if available.
 

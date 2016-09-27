@@ -1,11 +1,20 @@
-NSF-ENG: Engineering
-====================
+# NSF-ENG: Engineering
 
-National Science Foundation
-===========================
+National Science Foundation 
+Engineering Directorate 
 
-Roles and responsibilities
---------------------------
+## Quick Links 
+
+**Directorate for Engineering**
++ [Directorate for Engineering Data Management Policy](http://nsf.gov/eng/general/ENG_DMP_Policy.pdf)
+
+**NSF**
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+## Roles and responsibilities
 
 ### The Data Management Plan should outline the rights and obligations of all parties as to their roles and responsibilities in the management and retention of research data. It must also consider changes to roles and responsibilities that will occur should a principal investigator or co-PI leave the institution.
 
@@ -21,8 +30,7 @@ Explain how the responsibilities regarding the management of your data will be d
 
 -   Who will have responsibility over time for decisions about the data once the original personnel are no longer available?
 
-Expected data
--------------
+## Expected data
 
 ### The Data Management Plan should describe the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project. It should then describe the expected types of data to be retained.
 
@@ -42,15 +50,13 @@ Provide a description of the data you will collect or re-use, including the file
 
 -   What quality assurance & quality control measures will you employ?
 
-Period of data retention
-------------------------
+## Period of data retention
 
 ### The Data Management Plan should describe the period of data retention. Minimum data retention of research data is three years after conclusion of the award or three years after public release, whichever is later. Public release of data should be at the earliest reasonable time. A reasonable standard of timeliness is to make the data accessible immediately after publication, where submission for publication is also expected to be timely. Exceptions requiring longer retention periods may occur when data supports patents, when questions arise from inquiries or investigations with respect to research, or when a student is involved, requiring data to be retained a timely period after the degree is awarded. Research data that support patents should be retained for the entire term of the patent. Longer retention periods may also be necessary when data represents a large collection that is widely useful to the research community. For example, special circumstances arise from the collection and analysis of large, longitudinal data sets that may require retention for more than three years. Project data-retention and data-sharing policies should account for these needs.
 
 Estimate how long your data will be kept after the completion of your research. Describe any institutional or project-based policies on data retention that might apply.
 
-Data formats and metadata
--------------------------
+## Data formats and metadata
 
 ### The Data Management Plan should describe the specific data formats, media, including any metadata.
 
@@ -66,8 +72,7 @@ Describe the format of your data, and think about what details (metadata) someon
 
 -   What contextual details (metadata) are needed to make the data you capture or collect meaningful?
 
-Data dissemination and policies for public access, sharing and publication delays
----------------------------------------------------------------------------------
+## Data dissemination and policies for public access, sharing and publication delays
 
 ### The Data Management Plan should clearly articulate how "sharing of primary data" is to be implemented. It should describe dissemination approaches that will be used to make data available to others.Policies for public access and sharing should be described, including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements. Research centers and major partnerships with industry or other user communities must also address how data are to be shared and managed with partners, center members, and other major stakeholders. Publication delay policies (if applicable) must be clearly stated. Investigators are expected to submit significant findings for publication quickly that are consistent with the publication delay obligations of key partners, such as industrial members of a research center.
 
@@ -97,8 +102,7 @@ It is very important, the reason a DMP is required, that you specify how you wil
 
 -   Explain details of any embargo periods for political/commercial/patent or publisher reasons.
 
-Data storage and preservation of access
----------------------------------------
+## Data storage and preservation of access
 
 ### The DMP should describe physical and cyber resources and facilities that will be used for the effective preservation and storage of research data. In collaborative proposals or proposals involving sub-awards, the lead PI is responsible for assuring data storage and access.
 

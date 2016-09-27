@@ -1,11 +1,26 @@
-NSF-AGS: Atmospheric and Geospace Sciences
-==========================================
+# NSF-AGS: Atmospheric and Geospace Sciences
 
 National Science Foundation
-===========================
+Directorate for Geosciences 
+Division of Atmospheric and Geospace Sciences
 
-Products of research
---------------------
+## Quick Links 
+
+**Atmospheric and Geospace Sciences** 
++ [AGS Advice to PIs on Data Management Plans](http://www.nsf.gov/geo/geo-data-policies/ags/ags_data_mgt_guidance-v3.docx)
++ [AGS Data Management Form](http://www.nsf.gov/geo/geo-data-policies/ags/ags_data_mgt_form.pdf)
++ [Instructions for using the AGS Data Management PDF Form](http://www.nsf.gov/geo/geo-data-policies/ags/ags-data-mgt-pdf-instruction-form.pdf)
+
+**Directorate for Geosiences**
++ [Directorate for Geosciences - Data Policies](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
+
+**NSF**
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+## Products of research
 
 ### Describe the types of data and products that will be generated in the research, such as physical samples, space and/or time-dependent information on chemical and physical processes, images, spectra, final or intermediate numerical results, theoretical formalisms, computational strategies, software, and curriculum materials.
 
@@ -23,8 +38,7 @@ Describe what data or other research products you will generate in the course of
 
 -   How much data will be produced?
 
-Data format
------------
+## Data format
 
 ### Describe the format in which the data or products are stored (e.g. hardcopy logs and/or instrument outputs, ASCII, XML files, HDF5, CDF, etc). What metadata will be part of the data sets produced?
 
@@ -40,8 +54,7 @@ Describe the format of your data, and think about what details (metadata) someon
 
 -   What contextual details (metadata) are needed to make the data you capture or collect meaningful?
 
-Access to data, and data sharing practices and policies
--------------------------------------------------------
+## Access to data, and data sharing practices and policies
 
 ### Describe your plans for providing access to data, including websites maintained by your research group and contributions to public databases. If maintenance of a web site or database is the direct responsibility of your group, provide information about the period of time the web site or database is expected to be maintained. Also describe your practice or policies regarding the release of data&\#8212;for example whether data are available before or after formal publication and the approximate duration of time that the data will be kept private. Describe your policies (where applicable) for protection of propriety data, privacy and confidentiality, intellectual property, or other rights or requirements.
 
@@ -65,8 +78,7 @@ Describe how you will make the data available to other researchers, as well as t
 
 -   How long will/should data be kept beyond the life of the project?
 
-Policies and provisions for re-use, re-distribution and production of derivatives
----------------------------------------------------------------------------------
+## Policies and provisions for re-use, re-distribution and production of derivatives
 
 ### Describe your policies regarding the use of data provided via general access or sharing. If you plan to provide data on a website, will the site contain disclaimers, or conditions regarding the use of the data in other publications or products? If the data or products are copyrighted, how will this be noted on the website?
 
@@ -78,8 +90,7 @@ Explain how the policies outlined in the previous question can be applied to the
 
 -   What and who are the intended or foreseeable uses the data?
 
-Archiving of data
------------------
+## Archiving of data
 
 ### Describe whether and how data will be archived and how preservation of access will be handled. For example, will hardcopy logs, instrument outputs, and physical samples be stored in a location where there are safeguards against fire or water damage? Is there a plan to transfer digitized information to new storage media or devices as technological standards or practices change? Will there be an easily accessible index that documents where all archived data are stored and how they can be accessed? If the data will be archived by a third party, please refer to their preservation plans (if available).
 

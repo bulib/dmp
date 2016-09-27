@@ -1,11 +1,21 @@
-NSF-SBE: Social, Behavioral, Economic Sciences
-==============================================
+# NSF-SBE: Social, Behavioral, Economic Sciences
 
 National Science Foundation
-===========================
+Social, Behavioral, and Economic Sciences (SBE) Directorate 
 
-Roles and responsibilities
---------------------------
+## Quick Links 
+
+**Directorate for SBE**
++ [Directorate for SBE - Data Policy](http://www.nsf.gov/sbe/SBE_DataMgmtPlanPolicy.pdf)
+
+**NSF**
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+
+## Roles and responsibilities
 
 ### The Data Management Plan should outline the rights and obligations of all parties as to their roles and responsibilities in the management and retention of research data. It must also consider changes to roles and responsibilities that will occur should a principal investigator or co-PI leave the institution.
 
@@ -21,8 +31,7 @@ Explain how the responsibilities regarding the management of your data will be d
 
 -   Who will have responsibility over time for decisions about the data once the original personnel are no longer available?
 
-Expected data
--------------
+## Expected data
 
 ### The Data Management Plan should describe the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project. It should then describe the expected types of data to be retained.
 
@@ -40,8 +49,7 @@ Give a short description of what *data* will mean in the context of your researc
 
 -   What data will be preserved and shared?
 
-Period of data retention
-------------------------
+## Period of data retention
 
 ### SBE is committed to timely and rapid data distribution. However, it recognizes that types of data can vary widely and that acceptable norms also vary by scientific discipline. It is strongly committed, however, to the underlying principle of timely access, and applicants should address how this will be met in their DMP statement.
 
@@ -51,8 +59,7 @@ Describe how long you plan to retain the data produced or used in your research.
 
 -   Explain details of any embargo periods for political/commercial/patent or publisher reasons.
 
-Data format and dissemination
------------------------------
+## Data format and dissemination
 
 ### The Data Management Plan should describe data formats, media, and dissemination approaches that will be used to make data and metadata available to others. Policies for public access and sharing should be described, including provisions for appropriate protection of privacy, confidentiality, security, intellectual property, or other rights or requirements. Research centers and major partnerships with industry or other user communities must also address how data are to be shared and managed with partners, center members, and other major stakeholders.
 
@@ -86,8 +93,7 @@ Describe how you will ensure dissemination of your data. Consider the following:
 
 -   What have you done to comply with your obligations in your IRB Protocol?
 
-Data storage and preservation of access
----------------------------------------
+## Data storage and preservation of access
 
 ### The Data Management Plan should describe physical and cyber resources and facilities that will be used for the effective preservation and storage of research data. These can include third party facilities and repositories.
 
@@ -111,8 +117,7 @@ Outline the staff/organizational roles and responsibilities for implementing thi
 
 How will adherence to this data management plan be checked or demonstrated?
 
-Additional possible data management requirements
-------------------------------------------------
+## Additional possible data management requirements
 
 ### More stringent data management requirements may be specified in particular NSF solicitations or result from local policies and best practices at the PI’s home institution. Additional requirements will be specified in the program solicitation and award conditions. Principal Investigators to be supported by such programs must discuss how they will meet these additional requirements in their Data Management Plans.
 
