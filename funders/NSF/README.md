@@ -17,18 +17,20 @@ The [NSF is a large organization](https://nsf.gov/staff/orglist.jsp) attempting 
 
 | Abbr | Group | Examples |
 | --- | --- | ---  |
-| AST | [Atmospheric and Geospace Sciences Division (GEO)](NSF-AGS.md) | |
-| AGS | [Astronomical Sciences](NSF-AST.md)| |
+| AST | [Division of Atmospheric and Geospace Sciences (GEO)](NSF-AGS.md) | |
+| AGS | [Division of Astronomical Sciences (MPS)](NSF-AST.md)| |
 | BIO | [Directorate for Biological Sciences](NSF-BIO.md) | |
-| CHE | [Chemistry Division](NSF-CHE.md)| |
+| CHE | [Division of Chemistry (MPS)](NSF-CHE.md)| |
 | CISE | [Directorate for Computer and Information Science and Engineering](NSF-CISE.md)|  |
-| DMR | [Divison of Materials Research](NSF-DMR.md) | |
-| EAR | [Earth Sciences Division (GEO)](NSF-EAR.md)| |
+| DMR | [Division of Materials Research (MPS)](NSF-DMR.md) | |
+| DMS | [Division of Mathematical Sciences (MPS)](NSF-DMS.md) | |
+| EAR | [Division of Earth Sciences (GEO)](NSF-EAR.md)| |
 | EHR | [Directorate for Education and Human Resources](NSF-EHR.md) | |
-| ENG | [Engineering](NSF-ENG.md) | |
+| ENG | [Directorate for Engineering](NSF-ENG.md) | |
 | GEO | Directorate for Geosciences | | 
 | OCE-BCO | [Biological and Chemical Oceanography](NSF-OCE-BCO-DMO.md) | | 
-| PHY | [Physics](NSF-PHY.md)  | | 
+| PHY | [Division of Physics (MPS)](NSF-PHY.md)  | | 
+| PLR | [Division of Polar Programs (GEO)](NSF-PLR.md) | |
 | SBE | [Directorate of Social, Behavioral, Economic Sciences](NSF-SBE.md)| |
 
 
