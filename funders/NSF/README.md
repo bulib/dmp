@@ -13,7 +13,7 @@ In this folder we are attempting to gather as much information as possible about
 
 ## Directorate & Division Guidance 
 
-The NSF is a large organization attempting to meet the needs of even larger communities. This has resulted in serverl directorates and divisions having specific data management plan guidance. Here is a quick table to the resources we have: 
+The [NSF is a large organization](https://nsf.gov/staff/orglist.jsp) attempting to meet the needs of even larger communities. This has resulted in serverl directorates and divisions having specific data management plan guidance. Here is a quick table to the resources we have: 
 
 | Abbr | Group | Examples |
 | --- | --- | ---  |
