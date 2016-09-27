@@ -1,11 +1,26 @@
-NSF-EAR: Earth Sciences
-=======================
+# NSF-EAR: Earth Sciences
 
 National Science Foundation
-===========================
+Directorate for Geosciences 
+Division of Earth Sciences 
 
-Types of data
--------------
+## Quick Links 
+
+Earth Sciences Division 
++ [Earth Sciences Data Sharing Policy](https://www.nsf.gov/geo/ear/2010EAR_data_policy_9_28_10.pdf)
++ [EarthScope Data and Sample Policies](http://www.nsf.gov/geo/geo-data-policies/ear/es-data-policy.pdf)
+
+Directorate for Geosiences 
++ [Directorate for Geosciences - Data Policies](http://www.nsf.gov/geo/geo-data-policies/index.jsp)
+
+NSF 
++ [NSF Dissemination and Sharing of Research Results](https://www.nsf.gov/bfa/dias/policy/dmp.jsp)
++ [NSF Award and Administration Guide (AAG)](http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp#VID4)
++ [NSF Grant Proposal Guide](https://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_2.jsp#dmp)
++ [NSF Data Management and Sharing FAQs](https://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp)
+
+
+## Types of data
 
 ### Preservation of all data, samples, physical collections and other supporting materials needed for long-term earth science research and education is required of all EAR-supported researchers.
 
@@ -25,8 +40,7 @@ Provide a description of the data you will collect or re-use, including the file
 
 -   What quality assurance & quality control measures will you employ?
 
-Data and metadata standards
----------------------------
+## Data and metadata standards
 
 ### Data archives must include easily accessible information about data holdings, including quality assessments, supporting ancillary information, and guidance and aids for locating and obtaining data.
 
@@ -42,8 +56,7 @@ Consider the following:
 
 -   Which metadata standards will you use and why have you chosen them?
 
-Policies for access and sharing
--------------------------------
+## Policies for access and sharing
 
 ### It is the responsibility of researchers and organizations to make results, data, derived data products, and collections available to the research community in a timely manner and at a reasonable cost. In the interest of full and open access, data should be provided at the lowest possible cost to researchers and educators. This cost should, as a first principle, be no more than the marginal cost of filling a specific user request. Data may be made available for secondary use through submission to a national data center, publication in a widely available scientific journal, book or website, through the institutional archives that are standard for a particular discipline (e.g. IRIS for seismological data, UNAVCO for GP data), or through other EAR-specified repositories. Data inventories should be published or entered into a public database periodically and when there is a significant change in type, location or frequency of such observations. Principal Investigators working in coordinated programs may establish (in consultation with other funding agencies and NSF) more stringent data submission procedures.
 
@@ -59,8 +72,7 @@ Specify how you will share your data with others after the project is completed.
 
 -   How should your data be cited?
 
-Policies and provisions for re-use, re-distribution
----------------------------------------------------
+## Policies and provisions for re-use, re-distribution
 
 ### For those programs in which selected principle investigators have initial periods of exclusive data use, data should be made openly available as soon as possible, but no later than two (2) years after the data were collected. This period may be extended under exceptional circumstances, but only by agreement between the Principal Investigator and the National Science Foundation. For continuing observations or for long-term (multi-year) projects, data are to be made public annually.
 
@@ -84,8 +96,7 @@ Describe policies surrounding the re-use of your data – the EAR division is sp
 
 -   What and who are the intended or foreseeable uses / users of the data?
 
-Plans for archiving and preservation of access
-----------------------------------------------
+## Plans for archiving and preservation of access
 
 ### Remember - Data may be made available for secondary use through submission to a national data center, publication in a widely available scientific journal, book or website, through the institutional archives that are standard for a particular discipline (e.g. IRIS for seismological data, UNAVCO for GP data), or through other EAR-specified repositories.
 
