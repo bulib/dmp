@@ -17,18 +17,19 @@ The NSF is a large organization attempting to meet the needs of even larger comm
 
 | Abbr | Group | Examples |
 | --- | --- | ---  |
-| AST | [Atmospheric and Geospace Sciences](NSF-AGS.md) | |
+| AST | [Atmospheric and Geospace Sciences Division (GEO)](NSF-AGS.md) | |
 | AGS | [Astronomical Sciences](NSF-AST.md)| |
-| BIO | [Biological Sciences](NSF-BIO.md) | |
+| BIO | [Directorate for Biological Sciences](NSF-BIO.md) | |
 | CHE | [Chemistry Division](NSF-CHE.md)| |
-| CISE | [Computer and Information Science and Engineering](NSF-CISE.md)|  |
+| CISE | [Directorate for Computer and Information Science and Engineering](NSF-CISE.md)|  |
 | DMR | [Divison of Materials Research](NSF-DMR.md) | |
-| EAR | [Earth Sciences](NSF-EAR.md)| |
-| EHR | [Education and Human Resources](NSF-EHR.md) | |
+| EAR | [Earth Sciences Division (GEO](NSF-EAR.md)| |
+| EHR | [Directorate for Education and Human Resources](NSF-EHR.md) | |
 | ENG | [Engineering](NSF-ENG.md) | |
+| GEO | Directorate for Geosciences | | 
 | OCE-BCO | [Biological and Chemical Oceanography](NSF-OCE-BCO-DMO.md) | | 
 | PHY | [Physics](NSF-PHY.md)  | | 
-| SBE | [Social, Behavioral, Economic Sciences](NSF-SBE.md)| |
+| SBE | [Directorate of Social, Behavioral, Economic Sciences](NSF-SBE.md)| |
 
 
  
